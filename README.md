@@ -78,7 +78,7 @@
 
 ### 🌐 Me retrouver
 - 🔗 [Portfolio](https://jeansagara.github.io/JeanPortFolio/)  
-- 💼 [LinkedIn](https://linkedin.com) *(ajoute ton vrai lien)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jean-zacharie-sagara-95b6b7243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app). 
 - 📧 Email : **jeansagara@gmail.com**
 
 - ---
