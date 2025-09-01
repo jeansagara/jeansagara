@@ -81,6 +81,11 @@
 - 💼 [LinkedIn](https://linkedin.com) *(ajoute ton vrai lien)*  
 - 📧 Email : **jeansagara@gmail.com**
 
+- ---
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/jeansagara/jeansagara/blob/output/snake.svg)
+
 ---
 
 ✨ *Merci de visiter mon profil !* ✨
