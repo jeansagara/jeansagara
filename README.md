@@ -83,9 +83,6 @@
 
 - ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/jeansagara/jeansagara/blob/output/snake.svg)
-
 ---
 
 ✨ *Merci de visiter mon profil !* ✨
